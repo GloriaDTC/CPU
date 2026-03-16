@@ -33,7 +33,7 @@ To verify the hardware logic, the project includes simulated assembly programs:
 
 ## Project Structure
 * `/circ`: Contains the `.circ` file for Logisim Evolution.
-* `/docs`: Contains the full **CPU Design Project Report** in PDF format.
+* `/pdf`: Contains the full **CPU Design Project Report** in PDF format.
 
 ---
 *Developed as part of Computer Science 306 course at Study.com.*
